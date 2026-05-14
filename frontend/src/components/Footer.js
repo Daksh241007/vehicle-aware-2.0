@@ -56,7 +56,7 @@ export const Footer = () => {
 
         <div className="border-t border-white/10 mt-8 pt-8 text-center">
           <p className="text-slate-400 text-sm">
-            &copy; 2024 VehicleAware. All rights reserved.
+            &copy; 2026 VehicleAware. All rights reserved.
           </p>
           <p className="text-slate-500 text-xs mt-2">
             This system provides diagnostic suggestions and does not replace professional inspection.
